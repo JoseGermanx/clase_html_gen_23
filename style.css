@@ -9,7 +9,13 @@ body {
 
 section { background-color: rgb(20, 196, 158); }
 
-p { font-weight: 900; }
+p {
+    font-weight: 900;
+    margin-top: 0;
+    padding: 20px;
+    border: 5px;
+    border-style: solid;
+}
 
 
 /* selección por medio de Id´s*/
