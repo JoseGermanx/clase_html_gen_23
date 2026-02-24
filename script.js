@@ -20,4 +20,9 @@ document.getElementById("principal").style.color = "red"
 document.getElementsByClassName("parrafo")[0].style.color = "blue"
 
 
-document.getElementById("principal").style.fontSize = "50px"
+// document.getElementById("principal").style.fontSize = "50px"
+
+document.getElementById("demo").innerHTML = "Mensaje de despedida"
+
+alert("Hola mundo desde la alerta")
+
