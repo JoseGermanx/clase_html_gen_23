@@ -7,6 +7,7 @@ console.log(document.getElementById("email").value)
 console.log(document.getElementById("password").value)
 console.log(document.getElementById("fecha").value)
 
+
 // mensaje confirmación con un alert
 alert("Registro exitoso!!!")
 
